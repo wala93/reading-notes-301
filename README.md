@@ -1,5 +1,5 @@
 # reading-notes-301
-## this site will enclude my reading summerirs for the 301 level 
+## this site will enclude my reading summerirs for this course
 >my **reading-notes** pages :smile:
 
 
